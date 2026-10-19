@@ -9,3 +9,10 @@
 - iOS：IPA 安装包，安装需要有效签名及对应分发资格。
 
 每个平台使用独立版本标签，Windows 安装包提供 SHA-256 校验文件。
+
+
+## 源码 / Source
+
+[华交小助手 Pro 源码与正式版](https://github.com/ADCharles/ecjtu-tools-pro) · [中文介绍](https://github.com/ADCharles/ecjtu-tools-pro/blob/main/README.md) · [English](https://github.com/ADCharles/ecjtu-tools-pro/blob/main/README.en.md)
+
+作者 / Author: **阿东Charles (ADCharles)**。
